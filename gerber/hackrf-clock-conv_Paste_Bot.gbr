@@ -1,0 +1,16 @@
+G04 Layer_Color=128*
+%FSLAX24Y24*%
+%MOIN*%
+%TF.FileFunction,Paste,Bot*%
+%TF.Part,Single*%
+G01*
+G75*
+%TA.AperFunction,ConnectorPad*%
+%ADD14R,0.1811X0.0630*%
+D14*
+X2079Y1677D02*
+D03*
+Y-1673D02*
+D03*
+%TF.MD5,e8480309e2216a154a74d792c95418ed*%
+M02*
