@@ -34,9 +34,10 @@ Clock converter is disabled by default. It is enabled and configured through
 GPIO lines by running patched firmware and host tools. These are available from
 the [avian2/hackrf fork](https://github.com/avian2/hackrf/).
 
-See [this blog
-post](https://www.tablix.org/~avian/blog/archives/2021/06/hackrf_clock_converter/)
-for more details.
+For more details, see these blog posts:
+
+* [HackRF clock converter](https://www.tablix.org/~avian/blog/archives/2021/06/hackrf_clock_converter/)
+* [HackRF clock converter, 2](https://www.tablix.org/~avian/blog/archives/2021/06/hackrf_clock_converter_2/)
 
 ## License
 
