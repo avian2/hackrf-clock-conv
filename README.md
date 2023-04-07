@@ -38,6 +38,7 @@ For more details, see these blog posts:
 
 * [HackRF clock converter](https://www.tablix.org/~avian/blog/archives/2021/06/hackrf_clock_converter/)
 * [HackRF clock converter, 2](https://www.tablix.org/~avian/blog/archives/2021/06/hackrf_clock_converter_2/)
+* [HackRF clock converter, 3](https://www.tablix.org/~avian/blog/archives/2021/06/hackrf_clock_converter_3/)
 
 ## License
 
